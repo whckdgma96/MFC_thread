@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC_thread2", "MFC_thread2\MFC_thread2.vcxproj", "{42E57AEC-9959-4923-9031-EDDF58013868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E57AEC-9959-4923-9031-EDDF58013868}.Debug|x64.ActiveCfg = Debug|x64
+		{42E57AEC-9959-4923-9031-EDDF58013868}.Debug|x64.Build.0 = Debug|x64
+		{42E57AEC-9959-4923-9031-EDDF58013868}.Debug|x86.ActiveCfg = Debug|Win32
+		{42E57AEC-9959-4923-9031-EDDF58013868}.Debug|x86.Build.0 = Debug|Win32
+		{42E57AEC-9959-4923-9031-EDDF58013868}.Release|x64.ActiveCfg = Release|x64
+		{42E57AEC-9959-4923-9031-EDDF58013868}.Release|x64.Build.0 = Release|x64
+		{42E57AEC-9959-4923-9031-EDDF58013868}.Release|x86.ActiveCfg = Release|Win32
+		{42E57AEC-9959-4923-9031-EDDF58013868}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38036C0C-92E4-42E0-BFF4-62438C8EA19B}
+	EndGlobalSection
+EndGlobal
